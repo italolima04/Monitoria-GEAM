@@ -1,6 +1,6 @@
 # Monitoria-GEAM
 Materiais relacionados à Monitoria do Grupo de Estudos de Aprendizado de Máquina, na Universidade Federal do Ceará.
-No Grupo de Estudos, foram resolvidos problemas de Machine Learning, utilizando a plataforma de código aberto, Orange Data Mining, a qual é baseada em aprendizado de máquina, mineração e visualização de dados. No projeto os algoritmos foram apresentados e explicados. Os materiais disponibilizados serão divididos em: Um pdf com material de apoio, dados em formato csv e a resolução no Orange em formato ows.
+No Grupo de Estudos, foram resolvidos problemas de Machine Learning, utilizando a plataforma de código aberto, Orange Data Mining, a qual é baseada em aprendizado de máquina, mineração e visualização de dados. No projeto os algoritmos foram apresentados e explicados. Os materiais disponibilizados serão divididos em: Um pdf com material de apoio, dados de treino em formato csv e a resolução no Orange em formato ows, os datasets são encontrados na própria ferramenta.
 
 Os materiais foram divididos em 3 encontros.
 
