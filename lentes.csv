@@ -1,0 +1,7 @@
+age,prescription,astigmatic,tear_rate,lenses
+young,myope,no,reduced,
+young,hypermetrope,yes,reduced,
+prebiospic,myope,no,normal,
+Pre-prebiospic,hypermetrope,yes,reduced,
+young,hypermetrope,yes,normal,
+young,myope,yes,normal,
